@@ -1,0 +1,17 @@
+.card{
+    border-radius: 15px;
+    width: 50%;    
+    margin: 40%;
+}
+#login{
+    width: 20%;
+    margin:50%;
+}
+
+.btn{
+    border: solid;
+    margin-left:40%;
+    height: 10%;
+    width: 30%;
+    font-size: 12px;
+}
